@@ -1,0 +1,45 @@
+CSS * {
+  font-size: 30px;
+}
+
+#title {
+  border-style: solid;
+
+  font-size: 40px;
+
+  color: white;
+
+  background-color: black;
+
+  border-bottom: 15px;
+
+  border-color: black;
+
+  text-align: center;
+}
+
+#imgti {
+  height: 90px;
+
+  width: 90px;
+}
+
+.a {
+  color: red;
+  border-style:solid;
+  border radius: 9px;
+  border-color:black;
+  text-align: center;
+}
+
+.d {
+  color: green;
+}
+
+.min {
+  color: pink;
+}
+
+.segs {
+  color: purple;
+}
